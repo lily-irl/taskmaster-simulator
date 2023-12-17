@@ -1,0 +1,19 @@
+{
+  "name": "taskmaster-simulator",
+  "version": "1.0.0",
+  "description": "simulate the outcome of a task with arbitrary contestants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lily-irl/taskmaster-simulator.git"
+  },
+  "author": "Lily Hail",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lily-irl/taskmaster-simulator/issues"
+  },
+  "homepage": "https://github.com/lily-irl/taskmaster-simulator#readme"
+}
